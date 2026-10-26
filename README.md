@@ -1,5 +1,11 @@
 # Piggy Desktop 🐾
 
+> ### 🎨 接受桌面宠物定制｜Custom Desktop Pet Commissions Open
+>
+> **承接专属桌面宠物定制与商务合作。** 欢迎通过 [Discussions](https://github.com/KellenLi666/piggy-desktop/discussions) 联系作者，沟通你的想法与需求。
+>
+> **Custom desktop pet commissions and business inquiries are welcome.** Contact the creator via [Discussions](https://github.com/KellenLi666/piggy-desktop/discussions) to discuss your ideas and requirements.
+
 一只以真实猫咪 Piggy 为原型的 Windows 桌面宠物，也是一位使用你自己的 DeepSeek API 的聊天伙伴。
 
 **Piggy Desktop is a Windows desktop companion with an animated cat, lightweight chat, and DeepSeek-powered conversations. Bring your own API key.**
