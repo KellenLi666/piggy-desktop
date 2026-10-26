@@ -1,0 +1,16 @@
+name: 功能建议
+description: 说明你希望解决的实际问题
+title: "[Feature] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 你遇到了什么问题？
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望怎样改善？
+    validations:
+      required: true

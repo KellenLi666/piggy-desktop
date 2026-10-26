@@ -1,0 +1,14 @@
+node_modules/
+dist/
+release/
+.test-data/
+qa/
+*.log
+.env
+.env.*
+!.env.example
+secret.bin
+*.pem
+*.key
+Thumbs.db
+.DS_Store

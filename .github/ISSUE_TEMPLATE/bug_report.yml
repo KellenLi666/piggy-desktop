@@ -1,0 +1,31 @@
+name: 问题反馈
+description: 报告一个可以复现的问题
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿提交 API 密钥、完整个人对话或带隐私的截图。"
+  - type: input
+    id: version
+    attributes:
+      label: Piggy 版本
+      placeholder: v1.1.1
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Windows 版本、显示缩放和显示器数量
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、预期与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: 脱敏错误信息及截图（可选）
+      description: API 问题请说明轻聊或完整窗口、搜索开关状态及 HTTP 状态；不要提供密钥。
